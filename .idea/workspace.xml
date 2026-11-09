@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d46a67fe-897c-47e0-aa4c-2553758dd752" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Carlosestrchz"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/RedMoon73uwu/Hackaton2-CALSD.git",
+    "accountId": "b0c643eb-6515-4279-bbf5-79816c1e8b54"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.5114795214237629" />
+      <entry key="MS500" value="3.9328769155501213" />
+      <entry key="S2" value="6.885950914895069" />
+      <entry key="S5" value="8.03895436086237" />
+      <entry key="S10" value="8.4974271537385" />
+      <entry key="S30" value="8.829231233694184" />
+      <entry key="S60" value="9.122214846938567" />
+      <entry key="M2" value="12.741284034609432" />
+      <entry key="M5" value="40.0934567967473" />
+      <entry key="M10" value="75.06945662520872" />
+      <entry key="M15" value="94.30404263548581" />
+      <entry key="M30" value="119.34872783813998" />
+      <entry key="H1" value="134.59109138924796" />
+      <entry key="H2" value="143.00612685464566" />
+      <entry key="H4" value="147.4282422761975" />
+      <entry key="D1" value="151.2274322795911" />
+      <entry key="W1" value="151.88937052451806" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="7.676106469829464E-113" />
+      <entry key="S5" value="1.4257927300251845E-45" />
+      <entry key="S10" value="3.77596706821601E-23" />
+      <entry key="S30" value="3.354872857557317E-8" />
+      <entry key="S60" value="1.8316312012949828E-4" />
+      <entry key="M2" value="0.013533777009005923" />
+      <entry key="M5" value="0.17888239735689962" />
+      <entry key="M10" value="0.4229449105461595" />
+      <entry key="M15" value="0.563450630066304" />
+      <entry key="M30" value="0.7506334858413283" />
+      <entry key="H1" value="0.8663910698070066" />
+      <entry key="H2" value="0.9308013052241625" />
+      <entry key="H4" value="0.9647804440514751" />
+      <entry key="D1" value="0.9940420323950608" />
+      <entry key="W1" value="0.9991466804118587" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.4874538013814513" />
+      <entry key="MS500" value="3.91117953655788" />
+      <entry key="S2" value="6.874988540105459" />
+      <entry key="S5" value="8.033773118493276" />
+      <entry key="S10" value="8.494682433159277" />
+      <entry key="S30" value="8.828279529681426" />
+      <entry key="S60" value="9.121895332886329" />
+      <entry key="M2" value="12.754194968461428" />
+      <entry key="M5" value="40.270356740307555" />
+      <entry key="M10" value="75.49009877466139" />
+      <entry key="M15" value="94.8654463559032" />
+      <entry key="M30" value="120.097993445939" />
+      <entry key="H1" value="135.45669116332328" />
+      <entry key="H2" value="143.93650251826608" />
+      <entry key="H4" value="148.3928019709284" />
+      <entry key="D1" value="152.22143638095685" />
+      <entry key="W1" value="152.888511757794" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="3LsWt42aVaAnoP0Cqf8EkqTDwLo" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "carlosestrchz",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-ac68fc9d2b05-intellij.indexing.shared.core-IU-263.7307.200" />
+        <option value="bundled-js-predefined-d6986cc7102b-56aff7b04f6f-JavaScript-IU-263.7307.200" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d46a67fe-897c-47e0-aa4c-2553758dd752" name="Changes" comment="" />
+      <created>1794243467138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794243467138</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
